@@ -20,4 +20,3 @@ antall_strams = int(input("Hvor mange streams?"))
 if antall_streams > 30_000_000:
     print(antall_streams * 0.7)
 
-    test
