@@ -14,5 +14,4 @@ class Politiker:
     
     def gi_ukepoeng(self, poeng: int) -> None:
         self.ukepoeng.append(poeng)
-
     
